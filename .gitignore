@@ -1,1 +1,4 @@
-database.sqlite
+database.sqlite*
+world-development-indicators/
+geo/
+visualization_libraries.md
