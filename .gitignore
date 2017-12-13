@@ -1,4 +1,7 @@
 database.sqlite*
 world-development-indicators/
 geo/
+movielens/
 visualization_libraries.md
+miniproject-example*
+.csv*
