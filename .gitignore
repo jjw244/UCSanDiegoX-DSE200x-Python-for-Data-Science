@@ -2,6 +2,7 @@ database.sqlite*
 world-development-indicators/
 geo/
 movielens/
+weather/
 visualization_libraries.md
 miniproject-example*
 .csv*
